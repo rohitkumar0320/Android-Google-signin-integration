@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SignIn</string>
+    <string name="action_favorite">Menu</string>
+    <string name="action_settings">Help</string>
+    <string name="name_name_here">Name: NAME HERE</string>
+    <string name="email_email_here">Email: EMAIL HERE</string>
+    <string name="sign_out">Sign out</string>
+    <string name="id_id_here">ID: ID HERE</string>
+
+</resources>
